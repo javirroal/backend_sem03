@@ -8,7 +8,7 @@ app = Flask(__name__)
 # luego de utilizar el decorador se crea una funcion que sera la nueva funcionalidad de ese metodo
 @app.route('/')
 def inicio():
-    return 'Hola desde mi servidor de Flask'
+    return 'Hola desde mi servidor de Flaskkkkkk'
 
 
 
